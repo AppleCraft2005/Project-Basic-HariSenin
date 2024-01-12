@@ -1,0 +1,1 @@
+Repository ini berisi project Basic dari HariSenin yang saya kerjakan guna melatih pengetahuan dan pemahaman saya dibidang Front End Developer. untuk teknologi yang digunakan dalam website saya berupa HTML dan CSS vanilla
